@@ -1,3 +1,7 @@
+---
+permalink: /home
+---
+
 # Chinese Language Enablement (clreq)
 
 **Languages: [English (current)](README.md)** | **[简体中文](README.zh-Hans.md)** | **[繁體中文](README.zh-Hant.md)**
